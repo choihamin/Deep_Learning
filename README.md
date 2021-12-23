@@ -1,6 +1,6 @@
 # Deep Learning
 
-This is the collection of the code ongoing **Deep Learning Course** of the Korea University.
+These codes are the assignments of the **Deep Learning Course** in the Korea University.
 
 - hw1 : Define Mean Square Error
 - hw2 : Define SVM-Loss & Cross Entropy Softmax Loss & KNN Classifier & Linear Classifier
